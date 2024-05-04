@@ -31,6 +31,9 @@ Comprehensive experiments on three real-world mobile datasets demonstrate that t
 
 **Python train_MRGAN.py to run the code** 
 
+## Contact
+
+Please email qinguangming0413@163.com or qinguangming@stu.ouc.edu.cn if you have any questions
 
 
 
