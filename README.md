@@ -28,16 +28,32 @@ Comprehensive experiments on three real-world mobile datasets demonstrate that t
   * dgl 1.1.2
  
 ## Run the code
-
-**Python train_MRGAN.py to run the code** 
+```bash
+Python train_MRGAN.py to run the code
+```
 
 ## Contact
 
 Please email qinguangming0413@163.com or qinguangming@stu.ouc.edu.cn if you have any questions
 
+## Citation
+If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil: :)
 
 
 
+
+```BibTeX
+
+@inproceedings{qin2024multi,
+  title={Multi-relational graph attention network for social relationship inference from human mobility data},
+  author={Qin, Guangming and Qi, Jianpeng and Wang, Bin and Jiang, Guiyuan and Yu, Yanwei and Dong, Junyu},
+  booktitle={Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, IJCAI-24, Kate Larson (Ed.). International Joint Conferences on Artificial Intelligence Organization},
+  pages={2315--2323},
+  year={2024}
+}
+```
+
+<br>
 
 
 
